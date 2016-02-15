@@ -12,13 +12,13 @@ puts "SCRAPING ..."
 
 @html_document.css("tr").each do |tr|
   if tr.at_css("td.courseName")
-    course = tr.at_css("td.courseName").text
-    section = tr.at_css("td.courseSection").text
-    type = tr.at_css("td.courseType").text
-    days = tr.at_css("td.courseDays").text
-    start_time = tr.at_css("td.startTime").text
-    end_time = tr.at_css("td.endTime").text
-    location = tr.at_css("td.location").text
+    course = tr.at_css("td.courseName").text.gsub(/\s*\(\d+\)/, "").strip
+    section = tr.at_css("td.courseSection").text.strip
+    type = tr.at_css("td.courseType").text.strip
+    days = tr.at_css("td.courseDays").text.strip
+    start_time = tr.at_css("td.startTime").text.strip
+    end_time = tr.at_css("td.endTime").text.strip
+    location = tr.at_css("td.location").text.strip
     next if type == "Ind"
     printf("|%15s|%5s|%7s|%5s|%10s - %-10s|%12s|\n", course, section, type, days, start_time, end_time, location)
   end
