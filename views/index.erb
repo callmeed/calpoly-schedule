@@ -3,8 +3,58 @@
   <head>
     <meta charset="utf-8">
     <title>Welcome</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" media="screen" title="bootstrap" charset="utf-8">
   </head>
   <body>
-    <h1>Cal Poly Schedule API</h1>
+    <div class="container">
+      <h1>Cal Poly Schedule API</h1>
+      <p>
+        This is a very simple JSON API for fetching the course schedule at
+        <a href="http://www.calpoly.edu">Cal Poly SLO</a>. It is based on the
+        data at <a href="http://schedules.calpoly.edu/">this site</a>.
+      </p>
+      <h2>The API endpoint</h2>
+      <p>
+        There is only one API endpoint at the moment. It is:
+      </p>
+      <p>
+        <strong><code>/departments/:ID:</code></strong>
+      </p>
+      <p>
+        Where <code>:ID:</code> is the abbreviation of the deptartment as you'd find it in the catalog or PASS.
+        For example, to find all AERO courses scheduled for next quarter, you'd hit:
+      </p>
+      <p>
+        <a href="https://cp-schedule-api.herokuapp.com/departments/AERO">/departments/AERO</a>
+      </p>
+      <h2>The Course Object</h2>
+      <p>
+        An API call will return an array of course objects in JSON. A single course
+        object looks like this:
+      </p>
+<pre>{
+  "college_name": "Architecture & Environmental Design",
+  "course_name": "CM 460",
+  "section": "01",
+  "type": "Lec",
+  "days": "MW",
+  "start_time": "11:10 AM",
+  "end_time": "12:00 PM",
+  "location": "186-B202",
+  "instructor": "Barlow, Philip L."
+}</pre>
+
+      <h2>Notes</h2>
+      <ul>
+        <li>This is unofficial, not endorsed by Cal Poly in any way, and probably contains many inaccuracies</li>
+        <li>The project is on <a href="https://github.com/callmeed/calpoly-schedule">GitHub here</a></li>
+        <li>If you just want the JSON, you can grab all of the .json files from the /data dir in GitHub</li>
+        <li>Right now, all schedules are for Spring Quarter 2016</li>
+        <li>I ommitted independant study courses ("Ind") in my scraper</li>
+        <li>You can email me if you have questions: <a href="mailto:edungan@calpoly.edu">edungan@calpoly.edu</a></li>
+      </ul>
+      <hr>
+
+    </div>
   </body>
 </html>
