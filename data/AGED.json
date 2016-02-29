@@ -1,0 +1,12 @@
+[
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AGED 438","section":"01 ","type":"Lec","days":"TR","start_time":"04:10 PM","end_time":"05:00 PM","location":"010-0100","instructor":"De Lay, Ann Marie"},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AGED 438","section":"02 ","type":"Act","days":"TR","start_time":"02:10 PM","end_time":"04:00 PM","location":"010-0100","instructor":"De Lay, Ann Marie"},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AGED 522","section":"01 ","type":"Sem","days":"M","start_time":"11:10 AM","end_time":"12:00 PM","location":"008A-0001","instructor":"Swan, Benjamin Grant"},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AGED 522","section":"02 ","type":"Lab","days":"MF","start_time":"08:10 AM","end_time":"11:00 AM","location":"008A-0001","instructor":"Swan, Benjamin Grant"},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AGED 404","section":"01 ","type":"Lec","days":"T","start_time":"09:10 AM","end_time":"11:00 AM","location":"010-0100","instructor":"Vernon, J. Scott"},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AGED 404","section":"02 ","type":"Act","days":"R","start_time":"09:10 AM","end_time":"11:00 AM","location":"010-0100","instructor":"Vernon, J. Scott"},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AGED 303","section":"01 ","type":"Lec","days":"M","start_time":"02:10 PM","end_time":"04:00 PM","location":"010-0100","instructor":"Freeman, Sherri"},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AGED 303","section":"02 ","type":"Act","days":"W","start_time":"02:10 PM","end_time":"04:00 PM","location":"010-0100","instructor":"Freeman, Sherri"},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AGED 520","section":"01 ","type":"Sem","days":"TR","start_time":"12:10 PM","end_time":"01:30 PM","location":"010-0100","instructor":"Freeman, Sherri"},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AGED 460","section":"01 ","type":"Lec","days":"T","start_time":"08:10 AM","end_time":"09:00 AM","location":"010-0100","instructor":"Shuklian, Larry Harry"},
+]

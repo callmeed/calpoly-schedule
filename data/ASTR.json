@@ -1,0 +1,5 @@
+[
+	{"college_name":"Science & Mathematics","course_name":"ASTR 302","section":"01 ","type":"Lec","days":"TR","start_time":"12:10 PM","end_time":"01:30 PM","location":"053-0201","instructor":"Christiansen, Jodi L."},
+	{"college_name":"Science & Mathematics","course_name":"ASTR 101","section":"01 ","type":"Lec","days":"MTWR","start_time":"02:10 PM","end_time":"03:00 PM","location":"053-0215","instructor":"Duffin, Robert Thomas"},
+	{"college_name":"Science & Mathematics","course_name":"ASTR 102","section":"01 ","type":"Lec","days":"MTWR","start_time":"03:10 PM","end_time":"04:00 PM","location":"053-0215","instructor":"Harbison, Rebecca Anne"},
+]

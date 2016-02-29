@@ -1,0 +1,18 @@
+[
+	{"college_name":"Science & Mathematics","course_name":"SCM 302","section":"07 ","type":"Lab","days":"W","start_time":"09:10 AM","end_time":"12:00 PM","location":"038-0131","instructor":"Bergen, Anne Marie"},
+	{"college_name":"Science & Mathematics","course_name":"SCM 300","section":"01 ","type":"Lec","days":"M","start_time":"02:10 PM","end_time":"04:00 PM","location":"038-0131","instructor":"Stauch, Nancy Ann"},
+	{"college_name":"Science & Mathematics","course_name":"SCM 491","section":"01 ","type":"Act","days":"M","start_time":"05:10 PM","end_time":"07:00 PM","location":"180-0261","instructor":"Stauch, Nancy Ann"},
+	{"college_name":"Science & Mathematics","course_name":"SCM 302","section":"01 ","type":"Sem","days":"T","start_time":"06:10 PM","end_time":"07:00 PM","location":"038-0131","instructor":"Himelblau, Edward T."},
+	{"college_name":"Science & Mathematics","course_name":"SCM 302","section":"03 ","type":"Lab","days":"R","start_time":"09:10 AM","end_time":"12:00 PM","location":"180-0362","instructor":"Bush, Seth D."},
+	{"college_name":"Science & Mathematics","course_name":"SCM 302","section":"06 ","type":"Sem","days":"W","start_time":"08:10 AM","end_time":"09:00 AM","location":"038-0131","instructor":"Bush, Seth D."},
+	{"college_name":"Science & Mathematics","course_name":"SCM 302","section":"08 ","type":"Lab","days":"W","start_time":"09:10 AM","end_time":"12:00 PM","location":"180-0362","instructor":"Bush, Seth D."},
+	{"college_name":"Science & Mathematics","course_name":"SCM 302","section":"02 ","type":"Lab","days":"R","start_time":"09:10 AM","end_time":"12:00 PM","location":"038-0131","instructor":"Carroll, Jennifer A."},
+	{"college_name":"Science & Mathematics","course_name":"SCM 302","section":"04 ","type":"Lab","days":"F","start_time":"09:10 AM","end_time":"12:00 PM","location":"038-0131","instructor":"Carroll, Jennifer A."},
+	{"college_name":"Science & Mathematics","course_name":"SCM 302","section":"05 ","type":"Lab","days":"F","start_time":"09:10 AM","end_time":"12:00 PM","location":"180-0362","instructor":"Bensky, Thomas"},
+	{"college_name":"Science & Mathematics","course_name":"SCM 360","section":"01 ","type":"Lec","days":"TR","start_time":"12:10 PM","end_time":"01:30 PM","location":"180-0262","instructor":"Demsetz, Elizabeth C."},
+	{"college_name":"Science & Mathematics","course_name":"SCM 360","section":"02 ","type":"Act","days":"R","start_time":"02:10 PM","end_time":"04:00 PM","location":"180-0262","instructor":"Demsetz, Elizabeth C."},
+	{"college_name":"Science & Mathematics","course_name":"SCM 335","section":"01 ","type":"Lec","days":"TR","start_time":"12:10 PM","end_time":"02:00 PM","location":"180-0261","instructor":"Eickemeyer, James A."},
+	{"college_name":"Science & Mathematics","course_name":"SCM 101","section":"01 ","type":"Act","days":"T","start_time":"04:10 PM","end_time":"06:00 PM","location":"010-0223","instructor":"Farrier Nolan, Meghan Larissa"},
+	{"college_name":"Science & Mathematics","course_name":"SCM 220","section":"03 ","type":"Act","days":"T","start_time":"04:10 PM","end_time":"06:00 PM","location":"038-0131","instructor":"Bridgeford, Kristin Gayle Olson"},
+	{"college_name":"Science & Mathematics","course_name":"SCM 220","section":"01 ","type":"Act","days":"W","start_time":"04:10 PM","end_time":"06:00 PM","location":"038-0131","instructor":"Buck Moyer, David W."},
+]

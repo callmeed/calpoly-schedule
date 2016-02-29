@@ -1,0 +1,6 @@
+[
+	{"college_name":"Engineering","course_name":"ENGR 461","section":"02 ","type":"Lab","days":"TR","start_time":"03:10 PM","end_time":"06:00 PM","location":"192-0330","instructor":"Widmann, James M."},
+	{"college_name":"Engineering","course_name":"ENGR 461","section":"04 ","type":"Lab","days":"MW","start_time":"06:10 PM","end_time":"09:00 PM","location":"192-0331","instructor":"Slivovsky, Lynne A."},
+	{"college_name":"Engineering","course_name":"ENGR 461","section":"03 ","type":"Lab","days":"MW","start_time":"06:10 PM","end_time":"09:00 PM","location":"192-0330","instructor":"Katona, Thomas Matthew"},
+	{"college_name":"Engineering","course_name":"ENGR 461","section":"01 ","type":"Lab","days":"TR","start_time":"03:10 PM","end_time":"06:00 PM","location":"192-0329","instructor":"Laiho, Lily Hsu"},
+]

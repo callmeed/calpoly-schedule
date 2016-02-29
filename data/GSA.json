@@ -1,0 +1,18 @@
+[
+	{"college_name":"Business","course_name":"GSA S556 CSS","section":"01 ","type":"Lec","days":"MW","start_time":"04:10 PM","end_time":"06:00 PM","location":" ","instructor":"Hunt III, Herbert G."},
+	{"college_name":"Business","course_name":"GSA S536 CSS","section":"03 ","type":"Lec","days":"TR","start_time":"02:10 PM","end_time":"04:00 PM","location":" ","instructor":"Mock, Rodney Patrick"},
+	{"college_name":"Business","course_name":"GSA S549 CSS","section":"03 ","type":"Sem","days":"TR","start_time":"09:00 AM","end_time":"11:00 AM","location":" ","instructor":"Mock, Rodney Patrick"},
+	{"college_name":"Business","course_name":"GSA S550 CSS","section":"03 ","type":"Sem","days":"MW","start_time":"12:00 PM","end_time":"02:00 PM","location":" ","instructor":"Mock, Rodney Patrick"},
+	{"college_name":"Business","course_name":"GSA S551 CSS","section":"03 ","type":"Lec","days":"MW","start_time":"04:00 PM","end_time":"06:00 PM","location":" ","instructor":"Tolin, Jeffrey Michael"},
+	{"college_name":"Business","course_name":"GSA 543","section":"01 ","type":"Sem","days":"MW","start_time":"02:10 PM","end_time":"04:00 PM","location":"003-0300A","instructor":"Westermann, Kimberly D."},
+	{"college_name":"Business","course_name":"GSA S543 CSS","section":"01 ","type":"Sem","days":"MW","start_time":"02:00 PM","end_time":"04:00 PM","location":" ","instructor":"Westermann, Kimberly D."},
+	{"college_name":"Business","course_name":"GSA S554 CSS","section":"01 ","type":"Lec","days":"MW","start_time":"09:00 AM","end_time":"11:00 AM","location":" ","instructor":"Raja, Majid Fakhar Matlub"},
+	{"college_name":"Liberal Arts","course_name":"GSA S556 CSS","section":"01 ","type":"Lec","days":"MW","start_time":"04:10 PM","end_time":"06:00 PM","location":" ","instructor":"Hunt III, Herbert G."},
+	{"college_name":"Liberal Arts","course_name":"GSA S536 CSS","section":"03 ","type":"Lec","days":"TR","start_time":"02:10 PM","end_time":"04:00 PM","location":" ","instructor":"Mock, Rodney Patrick"},
+	{"college_name":"Liberal Arts","course_name":"GSA S549 CSS","section":"03 ","type":"Sem","days":"TR","start_time":"09:00 AM","end_time":"11:00 AM","location":" ","instructor":"Mock, Rodney Patrick"},
+	{"college_name":"Liberal Arts","course_name":"GSA S550 CSS","section":"03 ","type":"Sem","days":"MW","start_time":"12:00 PM","end_time":"02:00 PM","location":" ","instructor":"Mock, Rodney Patrick"},
+	{"college_name":"Liberal Arts","course_name":"GSA S551 CSS","section":"03 ","type":"Lec","days":"MW","start_time":"04:00 PM","end_time":"06:00 PM","location":" ","instructor":"Tolin, Jeffrey Michael"},
+	{"college_name":"Liberal Arts","course_name":"GSA 543","section":"01 ","type":"Sem","days":"MW","start_time":"02:10 PM","end_time":"04:00 PM","location":"003-0300A","instructor":"Westermann, Kimberly D."},
+	{"college_name":"Liberal Arts","course_name":"GSA S543 CSS","section":"01 ","type":"Sem","days":"MW","start_time":"02:00 PM","end_time":"04:00 PM","location":" ","instructor":"Westermann, Kimberly D."},
+	{"college_name":"Liberal Arts","course_name":"GSA S554 CSS","section":"01 ","type":"Lec","days":"MW","start_time":"09:00 AM","end_time":"11:00 AM","location":" ","instructor":"Raja, Majid Fakhar Matlub"},
+]

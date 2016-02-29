@@ -1,0 +1,16 @@
+[
+	{"college_name":"Engineering","course_name":"CSC 348","section":"01 ","type":"Lec","days":"MW","start_time":"02:10 PM","end_time":"04:00 PM","location":"038-0227","instructor":"Vakalis, Ignatios E."},
+	{"college_name":"Engineering","course_name":"CSC 429","section":"01 ","type":"Lec","days":"MWF","start_time":"11:10 AM","end_time":"12:00 PM","location":"020-0139","instructor":"DeBruhl II, Bruce Edward"},
+	{"college_name":"Engineering","course_name":"CSC 429","section":"02 ","type":"Lab","days":"MWF","start_time":"12:10 PM","end_time":"01:00 PM","location":"192-0333","instructor":"DeBruhl II, Bruce Edward"},
+	{"college_name":"Engineering","course_name":"CSC 590","section":"01 ","type":"Sem","days":"M","start_time":"01:10 PM","end_time":"02:00 PM","location":"014-0232B","instructor":"Dekhtyar, Alexander M."},
+	{"college_name":"Engineering","course_name":"CSC 445","section":"01 ","type":"Lec","days":"MTWR","start_time":"08:10 AM","end_time":"09:00 AM","location":"020-0129","instructor":"Gharibyan, Hasmik"},
+	{"college_name":"Engineering","course_name":"CSC 445","section":"02 ","type":"Lec","days":"MTWR","start_time":"09:10 AM","end_time":"10:00 AM","location":"005-0100","instructor":"Gharibyan, Hasmik"},
+	{"college_name":"Engineering","course_name":"CSC 302","section":"01 ","type":"Lec","days":"MW","start_time":"08:10 AM","end_time":"10:00 AM","location":"020-0128","instructor":"Turner, Clark S."},
+	{"college_name":"Engineering","course_name":"CSC 302","section":"02 ","type":"Lec","days":"MW","start_time":"04:10 PM","end_time":"06:00 PM","location":"186-C101","instructor":"Dana, Jr., Charles H."},
+	{"college_name":"Engineering","course_name":"CSC 231","section":"01 ","type":"Act","days":"TR","start_time":"09:10 AM","end_time":"11:00 AM","location":"020-0127","instructor":"Voelker, Kurt K."},
+	{"college_name":"Engineering","course_name":"CSC 231","section":"02 ","type":"Act","days":"TR","start_time":"12:10 PM","end_time":"02:00 PM","location":"020-0127","instructor":"Voelker, Kurt K."},
+	{"college_name":"Engineering","course_name":"CSC 231","section":"03 ","type":"Act","days":"TR","start_time":"02:10 PM","end_time":"04:00 PM","location":"020-0127","instructor":"Voelker, Kurt K."},
+	{"college_name":"Engineering","course_name":"CSC 232","section":"01 ","type":"Lec","days":"MW","start_time":"01:10 PM","end_time":"02:00 PM","location":"014-0301","instructor":"Voelker, Kurt K."},
+	{"college_name":"Engineering","course_name":"CSC 232","section":"02 ","type":"Act","days":"MW","start_time":"02:10 PM","end_time":"03:00 PM","location":"014-0301","instructor":"Voelker, Kurt K."},
+	{"college_name":"Engineering","course_name":"CSC 234","section":"01 ","type":"Lec","days":"MWF","start_time":"12:10 PM","end_time":"01:00 PM","location":"014-0301","instructor":"Voelker, Kurt K."},
+]

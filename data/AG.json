@@ -1,0 +1,8 @@
+[
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AG 360","section":"70 ","type":"Lec","days":"TR","start_time":"08:10 AM","end_time":"09:30 AM","location":"010-0115","instructor":"Reynolds, Elizabeth Jean"},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AG 360","section":"71 ","type":"Lab","days":"W","start_time":"03:10 PM","end_time":"06:00 PM","location":"150-0100","instructor":"Reynolds, Elizabeth Jean"},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AG 450","section":"70 ","type":"Lec","days":"TR","start_time":"08:10 AM","end_time":"09:30 AM","location":"010-0115","instructor":"Reynolds, Elizabeth Jean"},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AG 450","section":"71 ","type":"Lab","days":"W","start_time":"03:10 PM","end_time":"06:00 PM","location":"150-0100","instructor":"Reynolds, Elizabeth Jean"},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AG 243","section":"01 ","type":"Lab","days":"MW","start_time":"09:10 AM","end_time":"11:00 AM","location":"077-0001","instructor":"Londo, Benjamin Joseph"},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AG 243","section":"02 ","type":"Lab","days":" ","start_time":" ","end_time":" ","location":" ","instructor":"Londo, Benjamin Joseph"},
+]

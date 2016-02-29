@@ -1,0 +1,12 @@
+[
+	{"college_name":"Science & Mathematics","course_name":"BOT 326","section":"03 ","type":"Lab","days":"F","start_time":"12:10 PM","end_time":"03:00 PM","location":"053-0308","instructor":"Kitts, Christopher L."},
+	{"college_name":"Science & Mathematics","course_name":"BOT 326","section":"01 ","type":"Lec","days":"TR","start_time":"01:40 PM","end_time":"03:00 PM","location":"186-C103","instructor":"Knight, Charles A."},
+	{"college_name":"Science & Mathematics","course_name":"BOT 326","section":"02 ","type":"Lab","days":"F","start_time":"12:10 PM","end_time":"03:00 PM","location":"053-0304","instructor":"Knight, Charles A."},
+	{"college_name":"Science & Mathematics","course_name":"BOT 433","section":"03 ","type":"Lab","days":"F","start_time":"08:10 AM","end_time":"02:00 PM","location":"053-0311","instructor":"Ritter, Matthew K."},
+	{"college_name":"Science & Mathematics","course_name":"BOT 433","section":"01 ","type":"Lec","days":"MW","start_time":"04:10 PM","end_time":"05:00 PM","location":"005-0225","instructor":"Yost, Jennifer M."},
+	{"college_name":"Science & Mathematics","course_name":"BOT 433","section":"02 ","type":"Lab","days":"F","start_time":"08:10 AM","end_time":"02:00 PM","location":"033-0351","instructor":"Yost, Jennifer M."},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"BOT 323","section":"70 ","type":"Lec","days":"TR","start_time":"09:10 AM","end_time":"10:00 AM","location":"042-0205E","instructor":"Ivors, Kelly L."},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"BOT 323","section":"71 ","type":"Lab","days":"TR","start_time":"12:10 PM","end_time":"03:00 PM","location":"053-0308","instructor":"Ivors, Kelly L."},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"BOT 323","section":"72 ","type":"Lab","days":"TR","start_time":"03:10 PM","end_time":"06:00 PM","location":"053-0308","instructor":"Ivors, Kelly L."},
+	{"college_name":"Agriculture, Food & Environmental Science","course_name":"BOT 121","section":"01 ","type":"Lec","days":"TR","start_time":"03:10 PM","end_time":"04:30 PM","location":"180-0101","instructor":"Kelley, James Edward"},
+]

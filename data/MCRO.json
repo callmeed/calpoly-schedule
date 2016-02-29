@@ -1,0 +1,12 @@
+[
+	{"college_name":"Science & Mathematics","course_name":"MCRO 301","section":"70 ","type":"Lec","days":"TR","start_time":"09:40 AM","end_time":"11:00 AM","location":"038-0204","instructor":"Fidopiastis, Pat M."},
+	{"college_name":"Science & Mathematics","course_name":"MCRO 225","section":"01 ","type":"Lec","days":"MWF","start_time":"10:10 AM","end_time":"11:00 AM","location":"180-0102","instructor":"Vredevoe, Larisa K."},
+	{"college_name":"Science & Mathematics","course_name":"MCRO 225","section":"02 ","type":"Lab","days":"TR","start_time":"08:10 AM","end_time":"11:00 AM","location":"033-0468","instructor":"Vredevoe, Larisa K."},
+	{"college_name":"Science & Mathematics","course_name":"MCRO 225","section":"03 ","type":"Lab","days":"TR","start_time":"12:10 PM","end_time":"03:00 PM","location":"033-0468","instructor":"Vredevoe, Larisa K."},
+	{"college_name":"Science & Mathematics","course_name":"MCRO 221","section":"01 ","type":"Lec","days":"MWF","start_time":"02:10 PM","end_time":"03:00 PM","location":"008-0123","instructor":"Yep-Rodriguez, Alejandra"},
+	{"college_name":"Science & Mathematics","course_name":"MCRO 224","section":"01 ","type":"Lec","days":"TR","start_time":"03:10 PM","end_time":"04:30 PM","location":"014-0249","instructor":"Yeung, Po Sai Marie"},
+	{"college_name":"Science & Mathematics","course_name":"MCRO 301","section":"72 ","type":"Lab","days":"M","start_time":"12:10 PM","end_time":"03:00 PM","location":"033-0467","instructor":"Yeung, Po Sai Marie"},
+	{"college_name":"Science & Mathematics","course_name":"MCRO 224","section":"02 ","type":"Lab","days":"MW","start_time":"12:10 PM","end_time":"03:00 PM","location":"033-0465","instructor":"Noel, Eric A."},
+	{"college_name":"Science & Mathematics","course_name":"MCRO 224","section":"04 ","type":"Lab","days":"TR","start_time":"08:10 AM","end_time":"11:00 AM","location":"033-0465","instructor":"Noel, Eric A."},
+	{"college_name":"Science & Mathematics","course_name":"MCRO 224","section":"05 ","type":"Lab","days":"TR","start_time":"12:10 PM","end_time":"03:00 PM","location":"033-0465","instructor":"Noel, Eric A."},
+]
