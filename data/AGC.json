@@ -1,6 +1,46 @@
 [
-	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AGC 426","section":"01 ","type":"Lec","days":"M","start_time":"10:10 AM","end_time":"12:00 PM","location":"010-0100","instructor":"De Lay, Ann Marie"},
-	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AGC 426","section":"02 ","type":"Act","days":"WF","start_time":"10:10 AM","end_time":"12:00 PM","location":"010-0100","instructor":"De Lay, Ann Marie"},
-	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AGC 407","section":"01 ","type":"Lec","days":"M","start_time":"08:10 AM","end_time":"10:00 AM","location":"010-0100","instructor":"Silcott, Megan Ann"},
-	{"college_name":"Agriculture, Food & Environmental Science","course_name":"AGC 407","section":"02 ","type":"Act","days":"WF","start_time":"08:10 AM","end_time":"10:00 AM","location":"010-0100","instructor":"Silcott, Megan Ann"},
+	{
+		"college_name": "Agriculture, Food & Environmental Science",
+		"course_name": "AGC 426",
+		"section": "01",
+		"type": "Lec",
+		"days": "M",
+		"start_time": "10:10 AM",
+		"end_time": "12:00 PM",
+		"location": "010-0100",
+		"instructor": "De Lay, Ann Marie"
+	},
+	{
+		"college_name": "Agriculture, Food & Environmental Science",
+		"course_name": "AGC 426",
+		"section": "02",
+		"type": "Act",
+		"days": "WF",
+		"start_time": "10:10 AM",
+		"end_time": "12:00 PM",
+		"location": "010-0100",
+		"instructor": "De Lay, Ann Marie"
+	},
+	{
+		"college_name": "Agriculture, Food & Environmental Science",
+		"course_name": "AGC 407",
+		"section": "01",
+		"type": "Lec",
+		"days": "M",
+		"start_time": "08:10 AM",
+		"end_time": "10:00 AM",
+		"location": "010-0100",
+		"instructor": "Silcott, Megan Ann"
+	},
+	{
+		"college_name": "Agriculture, Food & Environmental Science",
+		"course_name": "AGC 407",
+		"section": "02",
+		"type": "Act",
+		"days": "WF",
+		"start_time": "08:10 AM",
+		"end_time": "10:00 AM",
+		"location": "010-0100",
+		"instructor": "Silcott, Megan Ann"
+	}
 ]

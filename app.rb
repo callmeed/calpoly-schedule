@@ -10,14 +10,18 @@ class CalPoly < Sinatra::Base
     # I18n.enforce_available_locales = false
   end
 
+  # This is just the boring home page
   get '/' do
-    @products = settings.mongo_db.find({ price: { "$lt" => 10000 } }).sort(timestamp: -1).limit(25)
-    erb :index, layout: :layout
+    erb :index
   end
 
-  get '/engineering' do
-    @courses = settings.mongo_db.find({ college_name: "Engineering" }).sort({course_name: 1})
+  # API endpoint for getting all the classes from a dept (i.e. each JSON file)
+  # Do some basic sanitizing on the dept param
+  get '/departments/:dept' do
+    dept = params['dept'].upcase.gsub(/\W/, '')
+    file = File.join(File.dirname(__FILE__), "data", "#{dept}.json")
     content_type :json
-    @courses.to_a.to_json
+    send_file file
   end
+
 end

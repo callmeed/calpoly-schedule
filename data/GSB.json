@@ -1,12 +1,112 @@
 [
-	{"college_name":"Business","course_name":"GSB 569","section":"01 ","type":"Sem","days":"TR","start_time":"09:10 AM","end_time":"11:00 AM","location":"003-0206","instructor":"Burgunder, Lee B."},
-	{"college_name":"Business","course_name":"GSB 533","section":"01 ","type":"Lec","days":"MW","start_time":"08:10 AM","end_time":"10:00 AM","location":"003-0201","instructor":"Lindsay, William David"},
-	{"college_name":"Business","course_name":"GSB 562","section":"01 ","type":"Sem","days":"TR","start_time":"12:10 PM","end_time":"02:00 PM","location":"003-0209","instructor":"Greenbaum, Bruce E."},
-	{"college_name":"Business","course_name":"GSB 555","section":"01 ","type":"Sem","days":"TR","start_time":"02:10 PM","end_time":"04:00 PM","location":"003-0204","instructor":"Stanko, Taryn L."},
-	{"college_name":"Business","course_name":"GSB 534","section":"01 ","type":"Sem","days":"MW","start_time":"10:10 AM","end_time":"12:00 PM","location":"003-0204","instructor":"Deif, Ahmed Mahmoud"},
-	{"college_name":"Liberal Arts","course_name":"GSB 569","section":"01 ","type":"Sem","days":"TR","start_time":"09:10 AM","end_time":"11:00 AM","location":"003-0206","instructor":"Burgunder, Lee B."},
-	{"college_name":"Liberal Arts","course_name":"GSB 533","section":"01 ","type":"Lec","days":"MW","start_time":"08:10 AM","end_time":"10:00 AM","location":"003-0201","instructor":"Lindsay, William David"},
-	{"college_name":"Liberal Arts","course_name":"GSB 562","section":"01 ","type":"Sem","days":"TR","start_time":"12:10 PM","end_time":"02:00 PM","location":"003-0209","instructor":"Greenbaum, Bruce E."},
-	{"college_name":"Liberal Arts","course_name":"GSB 555","section":"01 ","type":"Sem","days":"TR","start_time":"02:10 PM","end_time":"04:00 PM","location":"003-0204","instructor":"Stanko, Taryn L."},
-	{"college_name":"Liberal Arts","course_name":"GSB 534","section":"01 ","type":"Sem","days":"MW","start_time":"10:10 AM","end_time":"12:00 PM","location":"003-0204","instructor":"Deif, Ahmed Mahmoud"},
+	{
+		"college_name": "Business",
+		"course_name": "GSB 569",
+		"section": "01",
+		"type": "Sem",
+		"days": "TR",
+		"start_time": "09:10 AM",
+		"end_time": "11:00 AM",
+		"location": "003-0206",
+		"instructor": "Burgunder, Lee B."
+	},
+	{
+		"college_name": "Business",
+		"course_name": "GSB 533",
+		"section": "01",
+		"type": "Lec",
+		"days": "MW",
+		"start_time": "08:10 AM",
+		"end_time": "10:00 AM",
+		"location": "003-0201",
+		"instructor": "Lindsay, William David"
+	},
+	{
+		"college_name": "Business",
+		"course_name": "GSB 562",
+		"section": "01",
+		"type": "Sem",
+		"days": "TR",
+		"start_time": "12:10 PM",
+		"end_time": "02:00 PM",
+		"location": "003-0209",
+		"instructor": "Greenbaum, Bruce E."
+	},
+	{
+		"college_name": "Business",
+		"course_name": "GSB 555",
+		"section": "01",
+		"type": "Sem",
+		"days": "TR",
+		"start_time": "02:10 PM",
+		"end_time": "04:00 PM",
+		"location": "003-0204",
+		"instructor": "Stanko, Taryn L."
+	},
+	{
+		"college_name": "Business",
+		"course_name": "GSB 534",
+		"section": "01",
+		"type": "Sem",
+		"days": "MW",
+		"start_time": "10:10 AM",
+		"end_time": "12:00 PM",
+		"location": "003-0204",
+		"instructor": "Deif, Ahmed Mahmoud"
+	},
+	{
+		"college_name": "Liberal Arts",
+		"course_name": "GSB 569",
+		"section": "01",
+		"type": "Sem",
+		"days": "TR",
+		"start_time": "09:10 AM",
+		"end_time": "11:00 AM",
+		"location": "003-0206",
+		"instructor": "Burgunder, Lee B."
+	},
+	{
+		"college_name": "Liberal Arts",
+		"course_name": "GSB 533",
+		"section": "01",
+		"type": "Lec",
+		"days": "MW",
+		"start_time": "08:10 AM",
+		"end_time": "10:00 AM",
+		"location": "003-0201",
+		"instructor": "Lindsay, William David"
+	},
+	{
+		"college_name": "Liberal Arts",
+		"course_name": "GSB 562",
+		"section": "01",
+		"type": "Sem",
+		"days": "TR",
+		"start_time": "12:10 PM",
+		"end_time": "02:00 PM",
+		"location": "003-0209",
+		"instructor": "Greenbaum, Bruce E."
+	},
+	{
+		"college_name": "Liberal Arts",
+		"course_name": "GSB 555",
+		"section": "01",
+		"type": "Sem",
+		"days": "TR",
+		"start_time": "02:10 PM",
+		"end_time": "04:00 PM",
+		"location": "003-0204",
+		"instructor": "Stanko, Taryn L."
+	},
+	{
+		"college_name": "Liberal Arts",
+		"course_name": "GSB 534",
+		"section": "01",
+		"type": "Sem",
+		"days": "MW",
+		"start_time": "10:10 AM",
+		"end_time": "12:00 PM",
+		"location": "003-0204",
+		"instructor": "Deif, Ahmed Mahmoud"
+	}
 ]

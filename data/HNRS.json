@@ -1,6 +1,46 @@
 [
-	{"college_name":"Science & Mathematics","course_name":"HNRS 244","section":"70 ","type":"Lec","days":"MTRF","start_time":"09:10 AM","end_time":"10:00 AM","location":"021-0237","instructor":"Brussel, Eric S."},
-	{"college_name":"Science & Mathematics","course_name":"HNRS 241","section":"70 ","type":"Lec","days":"MTRF","start_time":"09:10 AM","end_time":"10:00 AM","location":"038-0202","instructor":"White, Matthew E."},
-	{"college_name":"Business","course_name":"HNRS 299","section":"03 ","type":"Sem","days":"W","start_time":"12:10 PM","end_time":"01:00 PM","location":"010-0231","instructor":"Daubert, Sara Jo"},
-	{"college_name":"Liberal Arts","course_name":"HNRS 299","section":"03 ","type":"Sem","days":"W","start_time":"12:10 PM","end_time":"01:00 PM","location":"010-0231","instructor":"Daubert, Sara Jo"},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "HNRS 244",
+		"section": "70",
+		"type": "Lec",
+		"days": "MTRF",
+		"start_time": "09:10 AM",
+		"end_time": "10:00 AM",
+		"location": "021-0237",
+		"instructor": "Brussel, Eric S."
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "HNRS 241",
+		"section": "70",
+		"type": "Lec",
+		"days": "MTRF",
+		"start_time": "09:10 AM",
+		"end_time": "10:00 AM",
+		"location": "038-0202",
+		"instructor": "White, Matthew E."
+	},
+	{
+		"college_name": "Business",
+		"course_name": "HNRS 299",
+		"section": "03",
+		"type": "Sem",
+		"days": "W",
+		"start_time": "12:10 PM",
+		"end_time": "01:00 PM",
+		"location": "010-0231",
+		"instructor": "Daubert, Sara Jo"
+	},
+	{
+		"college_name": "Liberal Arts",
+		"course_name": "HNRS 299",
+		"section": "03",
+		"type": "Sem",
+		"days": "W",
+		"start_time": "12:10 PM",
+		"end_time": "01:00 PM",
+		"location": "010-0231",
+		"instructor": "Daubert, Sara Jo"
+	}
 ]

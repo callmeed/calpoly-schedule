@@ -1,5 +1,35 @@
 [
-	{"college_name":"Agriculture, Food & Environmental Science","course_name":"ERSC 363","section":"70 ","type":"Sem","days":"M","start_time":"02:10 PM","end_time":"04:00 PM","location":"180-0237","instructor":"Appel, Christopher S."},
-	{"college_name":"Agriculture, Food & Environmental Science","course_name":"ERSC 202","section":"01 ","type":"Lec","days":"TR","start_time":"09:40 AM","end_time":"11:00 AM","location":"003-0104","instructor":"Surfleet, Christopher Graham"},
-	{"college_name":"Agriculture, Food & Environmental Science","course_name":"ERSC 202","section":"02 ","type":"Act","days":"R","start_time":"12:10 PM","end_time":"02:00 PM","location":"180-0230","instructor":"Surfleet, Christopher Graham"},
+	{
+		"college_name": "Agriculture, Food & Environmental Science",
+		"course_name": "ERSC 363",
+		"section": "70",
+		"type": "Sem",
+		"days": "M",
+		"start_time": "02:10 PM",
+		"end_time": "04:00 PM",
+		"location": "180-0237",
+		"instructor": "Appel, Christopher S."
+	},
+	{
+		"college_name": "Agriculture, Food & Environmental Science",
+		"course_name": "ERSC 202",
+		"section": "01",
+		"type": "Lec",
+		"days": "TR",
+		"start_time": "09:40 AM",
+		"end_time": "11:00 AM",
+		"location": "003-0104",
+		"instructor": "Surfleet, Christopher Graham"
+	},
+	{
+		"college_name": "Agriculture, Food & Environmental Science",
+		"course_name": "ERSC 202",
+		"section": "02",
+		"type": "Act",
+		"days": "R",
+		"start_time": "12:10 PM",
+		"end_time": "02:00 PM",
+		"location": "180-0230",
+		"instructor": "Surfleet, Christopher Graham"
+	}
 ]

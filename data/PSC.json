@@ -1,11 +1,101 @@
 [
-	{"college_name":"Science & Mathematics","course_name":"PSC 101","section":"01 ","type":"Lec","days":"MWF","start_time":"03:10 PM","end_time":"04:00 PM","location":"180-0261","instructor":"Buchanan, Colleen Marlow"},
-	{"college_name":"Science & Mathematics","course_name":"PSC 101","section":"02 ","type":"Lab","days":"MWF","start_time":"04:10 PM","end_time":"05:00 PM","location":"180-0261","instructor":"Buchanan, Colleen Marlow"},
-	{"college_name":"Science & Mathematics","course_name":"PSC 103","section":"05 ","type":"Lec","days":"MWF","start_time":"12:10 PM","end_time":"01:00 PM","location":"180-0261","instructor":"Keller, John M."},
-	{"college_name":"Science & Mathematics","course_name":"PSC 103","section":"06 ","type":"Lab","days":"MWF","start_time":"01:10 PM","end_time":"02:00 PM","location":"180-0261","instructor":"Keller, John M."},
-	{"college_name":"Science & Mathematics","course_name":"PSC 103","section":"01 ","type":"Lec","days":"MWF","start_time":"08:10 AM","end_time":"09:00 AM","location":"180-0261","instructor":"Mitchell, David S."},
-	{"college_name":"Science & Mathematics","course_name":"PSC 103","section":"02 ","type":"Lab","days":"MWF","start_time":"09:10 AM","end_time":"10:00 AM","location":"180-0261","instructor":"Mitchell, David S."},
-	{"college_name":"Science & Mathematics","course_name":"PSC 103","section":"03 ","type":"Lec","days":"MWF","start_time":"10:10 AM","end_time":"11:00 AM","location":"180-0261","instructor":"Mitchell, David S."},
-	{"college_name":"Science & Mathematics","course_name":"PSC 103","section":"04 ","type":"Lab","days":"MWF","start_time":"11:10 AM","end_time":"12:00 PM","location":"180-0261","instructor":"Mitchell, David S."},
-	{"college_name":"Science & Mathematics","course_name":"PSC 201","section":"01 ","type":"Lec","days":"TR","start_time":"12:10 PM","end_time":"02:00 PM","location":"053-0215","instructor":"Walter, Ryan Kymm"},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "PSC 101",
+		"section": "01",
+		"type": "Lec",
+		"days": "MWF",
+		"start_time": "03:10 PM",
+		"end_time": "04:00 PM",
+		"location": "180-0261",
+		"instructor": "Buchanan, Colleen Marlow"
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "PSC 101",
+		"section": "02",
+		"type": "Lab",
+		"days": "MWF",
+		"start_time": "04:10 PM",
+		"end_time": "05:00 PM",
+		"location": "180-0261",
+		"instructor": "Buchanan, Colleen Marlow"
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "PSC 103",
+		"section": "05",
+		"type": "Lec",
+		"days": "MWF",
+		"start_time": "12:10 PM",
+		"end_time": "01:00 PM",
+		"location": "180-0261",
+		"instructor": "Keller, John M."
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "PSC 103",
+		"section": "06",
+		"type": "Lab",
+		"days": "MWF",
+		"start_time": "01:10 PM",
+		"end_time": "02:00 PM",
+		"location": "180-0261",
+		"instructor": "Keller, John M."
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "PSC 103",
+		"section": "01",
+		"type": "Lec",
+		"days": "MWF",
+		"start_time": "08:10 AM",
+		"end_time": "09:00 AM",
+		"location": "180-0261",
+		"instructor": "Mitchell, David S."
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "PSC 103",
+		"section": "02",
+		"type": "Lab",
+		"days": "MWF",
+		"start_time": "09:10 AM",
+		"end_time": "10:00 AM",
+		"location": "180-0261",
+		"instructor": "Mitchell, David S."
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "PSC 103",
+		"section": "03",
+		"type": "Lec",
+		"days": "MWF",
+		"start_time": "10:10 AM",
+		"end_time": "11:00 AM",
+		"location": "180-0261",
+		"instructor": "Mitchell, David S."
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "PSC 103",
+		"section": "04",
+		"type": "Lab",
+		"days": "MWF",
+		"start_time": "11:10 AM",
+		"end_time": "12:00 PM",
+		"location": "180-0261",
+		"instructor": "Mitchell, David S."
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "PSC 201",
+		"section": "01",
+		"type": "Lec",
+		"days": "TR",
+		"start_time": "12:10 PM",
+		"end_time": "02:00 PM",
+		"location": "053-0215",
+		"instructor": "Walter, Ryan Kymm"
+	}
 ]

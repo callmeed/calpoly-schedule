@@ -1,6 +1,46 @@
 [
-	{"college_name":"Science & Mathematics","course_name":"ZOO 323","section":"01 ","type":"Lec","days":"MW","start_time":"03:10 PM","end_time":"04:00 PM","location":"186-C200","instructor":"Francis, Clinton D."},
-	{"college_name":"Science & Mathematics","course_name":"ZOO 341","section":"01 ","type":"Lec","days":"MW","start_time":"02:10 PM","end_time":"03:00 PM","location":"003-0104","instructor":"Taylor, Emily N."},
-	{"college_name":"Science & Mathematics","course_name":"ZOO 341","section":"03 ","type":"Lab","days":"TR","start_time":"03:10 PM","end_time":"06:00 PM","location":"033-0253","instructor":"Claunch, Natalie May"},
-	{"college_name":"Science & Mathematics","course_name":"ZOO 323","section":"02 ","type":"Lab","days":"MW","start_time":"08:10 AM","end_time":"11:00 AM","location":"033-0253","instructor":"Davidson, Benjamin McGregor"},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "ZOO 323",
+		"section": "01",
+		"type": "Lec",
+		"days": "MW",
+		"start_time": "03:10 PM",
+		"end_time": "04:00 PM",
+		"location": "186-C200",
+		"instructor": "Francis, Clinton D."
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "ZOO 341",
+		"section": "01",
+		"type": "Lec",
+		"days": "MW",
+		"start_time": "02:10 PM",
+		"end_time": "03:00 PM",
+		"location": "003-0104",
+		"instructor": "Taylor, Emily N."
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "ZOO 341",
+		"section": "03",
+		"type": "Lab",
+		"days": "TR",
+		"start_time": "03:10 PM",
+		"end_time": "06:00 PM",
+		"location": "033-0253",
+		"instructor": "Claunch, Natalie May"
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "ZOO 323",
+		"section": "02",
+		"type": "Lab",
+		"days": "MW",
+		"start_time": "08:10 AM",
+		"end_time": "11:00 AM",
+		"location": "033-0253",
+		"instructor": "Davidson, Benjamin McGregor"
+	}
 ]

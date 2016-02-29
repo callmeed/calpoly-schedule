@@ -1,3 +1,13 @@
 [
-	{"college_name":"Engineering","course_name":"SIE S512 CSS","section":"01 ","type":"Lec","days":"MW","start_time":"04:00 PM","end_time":"06:00 PM","location":" ","instructor":"Colvin, Kurt W."},
+	{
+		"college_name": "Engineering",
+		"course_name": "SIE S512 CSS",
+		"section": "01",
+		"type": "Lec",
+		"days": "MW",
+		"start_time": "04:00 PM",
+		"end_time": "06:00 PM",
+		"location": "",
+		"instructor": "Colvin, Kurt W."
+	}
 ]

@@ -1,10 +1,90 @@
 [
-	{"college_name":"Engineering","course_name":"ENVE 405","section":"01 ","type":"Lab","days":" ","start_time":" ","end_time":" ","location":" ","instructor":"Lundquist, Trygve J."},
-	{"college_name":"Engineering","course_name":"ENVE 434","section":"01 ","type":"Lec","days":"TR","start_time":"09:40 AM","end_time":"11:00 AM","location":"002-0212","instructor":"Oulton, Rebekah Lynn"},
-	{"college_name":"Engineering","course_name":"ENVE 331","section":"01 ","type":"Lec","days":"MW","start_time":"08:10 AM","end_time":"10:00 AM","location":"052-0E27","instructor":"Pal, Nirupam"},
-	{"college_name":"Engineering","course_name":"ENVE 455","section":"01 ","type":"Lec","days":"MW","start_time":"12:10 PM","end_time":"02:00 PM","location":"180-0114","instructor":"Pal, Nirupam"},
-	{"college_name":"Engineering","course_name":"ENVE 264","section":"01 ","type":"Lec","days":"TR","start_time":"12:10 PM","end_time":"02:00 PM","location":"013-0118","instructor":"Thatcher, Tracy L."},
-	{"college_name":"Engineering","course_name":"ENVE 411","section":"01 ","type":"Lec","days":"TR","start_time":"08:10 AM","end_time":"09:30 AM","location":"192-0208","instructor":"Thatcher, Tracy L."},
-	{"college_name":"Engineering","course_name":"ENVE 434","section":"03 ","type":"Lab","days":"W","start_time":"09:10 AM","end_time":"12:00 PM","location":"192-0209","instructor":"Pittner, Christopher David"},
-	{"college_name":"Engineering","course_name":"ENVE 434","section":"04 ","type":"Lab","days":"M","start_time":"09:10 AM","end_time":"12:00 PM","location":"192-0209","instructor":"Pittner, Christopher David"},
+	{
+		"college_name": "Engineering",
+		"course_name": "ENVE 405",
+		"section": "01",
+		"type": "Lab",
+		"days": "",
+		"start_time": "",
+		"end_time": "",
+		"location": "",
+		"instructor": "Lundquist, Trygve J."
+	},
+	{
+		"college_name": "Engineering",
+		"course_name": "ENVE 434",
+		"section": "01",
+		"type": "Lec",
+		"days": "TR",
+		"start_time": "09:40 AM",
+		"end_time": "11:00 AM",
+		"location": "002-0212",
+		"instructor": "Oulton, Rebekah Lynn"
+	},
+	{
+		"college_name": "Engineering",
+		"course_name": "ENVE 331",
+		"section": "01",
+		"type": "Lec",
+		"days": "MW",
+		"start_time": "08:10 AM",
+		"end_time": "10:00 AM",
+		"location": "052-0E27",
+		"instructor": "Pal, Nirupam"
+	},
+	{
+		"college_name": "Engineering",
+		"course_name": "ENVE 455",
+		"section": "01",
+		"type": "Lec",
+		"days": "MW",
+		"start_time": "12:10 PM",
+		"end_time": "02:00 PM",
+		"location": "180-0114",
+		"instructor": "Pal, Nirupam"
+	},
+	{
+		"college_name": "Engineering",
+		"course_name": "ENVE 264",
+		"section": "01",
+		"type": "Lec",
+		"days": "TR",
+		"start_time": "12:10 PM",
+		"end_time": "02:00 PM",
+		"location": "013-0118",
+		"instructor": "Thatcher, Tracy L."
+	},
+	{
+		"college_name": "Engineering",
+		"course_name": "ENVE 411",
+		"section": "01",
+		"type": "Lec",
+		"days": "TR",
+		"start_time": "08:10 AM",
+		"end_time": "09:30 AM",
+		"location": "192-0208",
+		"instructor": "Thatcher, Tracy L."
+	},
+	{
+		"college_name": "Engineering",
+		"course_name": "ENVE 434",
+		"section": "03",
+		"type": "Lab",
+		"days": "W",
+		"start_time": "09:10 AM",
+		"end_time": "12:00 PM",
+		"location": "192-0209",
+		"instructor": "Pittner, Christopher David"
+	},
+	{
+		"college_name": "Engineering",
+		"course_name": "ENVE 434",
+		"section": "04",
+		"type": "Lab",
+		"days": "M",
+		"start_time": "09:10 AM",
+		"end_time": "12:00 PM",
+		"location": "192-0209",
+		"instructor": "Pittner, Christopher David"
+	}
 ]

@@ -1,6 +1,46 @@
 [
-	{"college_name":"Business","course_name":"GSE S538 CSS","section":"05 ","type":"Lec","days":"MW","start_time":"12:10 PM","end_time":"02:00 PM","location":" ","instructor":"Hamilton, Stephen F."},
-	{"college_name":"Business","course_name":"GSE S544 CSS","section":"05 ","type":"Lec","days":"TR","start_time":"04:10 PM","end_time":"06:00 PM","location":" ","instructor":"Zambrano, Eduardo"},
-	{"college_name":"Liberal Arts","course_name":"GSE S538 CSS","section":"05 ","type":"Lec","days":"MW","start_time":"12:10 PM","end_time":"02:00 PM","location":" ","instructor":"Hamilton, Stephen F."},
-	{"college_name":"Liberal Arts","course_name":"GSE S544 CSS","section":"05 ","type":"Lec","days":"TR","start_time":"04:10 PM","end_time":"06:00 PM","location":" ","instructor":"Zambrano, Eduardo"},
+	{
+		"college_name": "Business",
+		"course_name": "GSE S538 CSS",
+		"section": "05",
+		"type": "Lec",
+		"days": "MW",
+		"start_time": "12:10 PM",
+		"end_time": "02:00 PM",
+		"location": "",
+		"instructor": "Hamilton, Stephen F."
+	},
+	{
+		"college_name": "Business",
+		"course_name": "GSE S544 CSS",
+		"section": "05",
+		"type": "Lec",
+		"days": "TR",
+		"start_time": "04:10 PM",
+		"end_time": "06:00 PM",
+		"location": "",
+		"instructor": "Zambrano, Eduardo"
+	},
+	{
+		"college_name": "Liberal Arts",
+		"course_name": "GSE S538 CSS",
+		"section": "05",
+		"type": "Lec",
+		"days": "MW",
+		"start_time": "12:10 PM",
+		"end_time": "02:00 PM",
+		"location": "",
+		"instructor": "Hamilton, Stephen F."
+	},
+	{
+		"college_name": "Liberal Arts",
+		"course_name": "GSE S544 CSS",
+		"section": "05",
+		"type": "Lec",
+		"days": "TR",
+		"start_time": "04:10 PM",
+		"end_time": "06:00 PM",
+		"location": "",
+		"instructor": "Zambrano, Eduardo"
+	}
 ]

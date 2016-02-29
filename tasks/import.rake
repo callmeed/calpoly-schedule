@@ -23,7 +23,7 @@ namespace :import do
   task :clean do
     Dir.chdir(File.join(File.dirname(__FILE__),"..","data"))
     Dir.glob("*.json").each do |f|
-      File.open(f, "a+") {|file| file.write("]\n")}
+      File.open(f, "a+:UTF-8") {|file| file.write("]\n")}
     end
     #  = File.join(File.dirname(__FILE__),"..","data","#{dept}.json")
     # File.open(filename, "a+") do |f|
@@ -45,6 +45,8 @@ namespace :import do
              { college_name: "Business", url: "http://schedules.calpoly.edu/depts_40-OCOB_next.htm"},
              { college_name: "Liberal Arts", url: "http://schedules.calpoly.edu/depts_40-OCOB_next.htm"} ]
 
+    course_list = {}
+
     urls.each do |url|
       college_name = url[:college_name].to_s
       puts "=================================================="
@@ -57,14 +59,14 @@ namespace :import do
           if tr.at_css("td.personName")
             current_instructor = tr.at_css("td.personName").text.strip
           end
-          course = tr.at_css("td.courseName").text.gsub(/\s*\(\d+\)/, "").strip
+          course = tr.at_css("td.courseName").text.gsub(/\s*\(\d+\)/, "").gsub(/\A[[:space:]]+|[[:space:]]+\z/, '')
           dept   = course.match(/^[a-zA-Z]+/)[0]
-          section = tr.at_css("td.courseSection").text.strip
-          type = tr.at_css("td.courseType").text.strip
-          days = tr.at_css("td.courseDays").text.strip
-          start_time = tr.at_css("td.startTime").text.strip
-          end_time = tr.at_css("td.endTime").text.strip
-          location = tr.at_css("td.location").text.strip
+          section = tr.at_css("td.courseSection").text.gsub(/\A[[:space:]]+|[[:space:]]+\z/, '')
+          type = tr.at_css("td.courseType").text.gsub(/\A[[:space:]]+|[[:space:]]+\z/, '')
+          days = tr.at_css("td.courseDays").text.gsub(/\A[[:space:]]+|[[:space:]]+\z/, '')
+          start_time = tr.at_css("td.startTime").text.gsub(/\A[[:space:]]+|[[:space:]]+\z/, '')
+          end_time = tr.at_css("td.endTime").text.gsub(/\A[[:space:]]+|[[:space:]]+\z/, '')
+          location = tr.at_css("td.location").text.gsub(/\A[[:space:]]+|[[:space:]]+\z/, '')
           next if type == "Ind"
           printf("|%7s|%15s|%5s|%7s|%5s|%10s - %-10s|%12s|%32s|\n", dept, course, section, type, days, start_time, end_time, location, current_instructor)
 
@@ -80,24 +82,25 @@ namespace :import do
             instructor: current_instructor,
           }
 
-          filename = File.join(File.dirname(__FILE__),"..","data","#{dept}.json")
 
-          # If the file doesn't exist create it and add an opening [
-          if !File.exists?(filename)
-            File.open(filename, "a+") do |f|
-              f.write("[\n")
-            end
+
+          if !course_list.has_key? dept
+            course_list[dept] = []
           end
 
-          File.open(filename, "a+") do |f|
-            f.write("\t" + insert_data.to_json + ",\n")
-          end
+          course_list[dept] << insert_data
 
           # Uncomment this if you want to write it to your mongo db
           # db[MONGO_COLLECTION_NAME].insert_one(insert_data)
         end
       end
     end
-
+    # If the file doesn't exist create it and add an opening [
+    course_list.each do |key, value|
+      filename = File.join(File.dirname(__FILE__),"..","data","#{key}.json")
+      File.open(filename, "a+:UTF-8") do |f|
+        f.write(JSON.pretty_generate(value, indent: "\t"))
+      end
+    end
   end
 end

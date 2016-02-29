@@ -1,8 +1,68 @@
 [
-	{"college_name":"Engineering","course_name":"DATA 301","section":"09 ","type":"Lec","days":"MWF","start_time":"10:10 AM","end_time":"11:00 AM","location":"014-0246","instructor":"Dekhtyar, Alexander M."},
-	{"college_name":"Engineering","course_name":"DATA 301","section":"10 ","type":"Lab","days":"MWF","start_time":"11:10 AM","end_time":"12:00 PM","location":"014-0301","instructor":"Dekhtyar, Alexander M."},
-	{"college_name":"Science & Mathematics","course_name":"DATA 301","section":"01 ","type":"Lec","days":"TR","start_time":"08:10 AM","end_time":"09:30 AM","location":"180-0265","instructor":"Sun, Dennis Liu"},
-	{"college_name":"Science & Mathematics","course_name":"DATA 301","section":"02 ","type":"Lab","days":"TR","start_time":"09:40 AM","end_time":"11:00 AM","location":"180-0265","instructor":"Sun, Dennis Liu"},
-	{"college_name":"Science & Mathematics","course_name":"DATA 301","section":"03 ","type":"Lec","days":"TR","start_time":"01:10 PM","end_time":"02:30 PM","location":"180-0265","instructor":"Sun, Dennis Liu"},
-	{"college_name":"Science & Mathematics","course_name":"DATA 301","section":"04 ","type":"Lab","days":"TR","start_time":"02:40 PM","end_time":"04:00 PM","location":"180-0265","instructor":"Sun, Dennis Liu"},
+	{
+		"college_name": "Engineering",
+		"course_name": "DATA 301",
+		"section": "09",
+		"type": "Lec",
+		"days": "MWF",
+		"start_time": "10:10 AM",
+		"end_time": "11:00 AM",
+		"location": "014-0246",
+		"instructor": "Dekhtyar, Alexander M."
+	},
+	{
+		"college_name": "Engineering",
+		"course_name": "DATA 301",
+		"section": "10",
+		"type": "Lab",
+		"days": "MWF",
+		"start_time": "11:10 AM",
+		"end_time": "12:00 PM",
+		"location": "014-0301",
+		"instructor": "Dekhtyar, Alexander M."
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "DATA 301",
+		"section": "01",
+		"type": "Lec",
+		"days": "TR",
+		"start_time": "08:10 AM",
+		"end_time": "09:30 AM",
+		"location": "180-0265",
+		"instructor": "Sun, Dennis Liu"
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "DATA 301",
+		"section": "02",
+		"type": "Lab",
+		"days": "TR",
+		"start_time": "09:40 AM",
+		"end_time": "11:00 AM",
+		"location": "180-0265",
+		"instructor": "Sun, Dennis Liu"
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "DATA 301",
+		"section": "03",
+		"type": "Lec",
+		"days": "TR",
+		"start_time": "01:10 PM",
+		"end_time": "02:30 PM",
+		"location": "180-0265",
+		"instructor": "Sun, Dennis Liu"
+	},
+	{
+		"college_name": "Science & Mathematics",
+		"course_name": "DATA 301",
+		"section": "04",
+		"type": "Lab",
+		"days": "TR",
+		"start_time": "02:40 PM",
+		"end_time": "04:00 PM",
+		"location": "180-0265",
+		"instructor": "Sun, Dennis Liu"
+	}
 ]
