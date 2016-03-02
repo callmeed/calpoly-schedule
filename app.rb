@@ -20,6 +20,18 @@ class CalPoly < Sinatra::Base
     erb :index
   end
 
+  # API endpoint for getting all the department IDs.
+  # It just gets all the .json files in /data dir
+  get '/departments' do
+    depts = []
+    Dir.chdir(File.join(File.dirname(__FILE__),"data"))
+    Dir.glob("*.json").each do |f|
+      id = f.gsub /\.json/i, ''
+      depts << id
+    end
+    depts.to_json
+  end
+
   # API endpoint for getting all the classes from a dept (i.e. each JSON file)
   # Do some basic sanitizing on the dept param
   get '/departments/:dept' do
