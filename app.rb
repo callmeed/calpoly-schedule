@@ -29,6 +29,7 @@ class CalPoly < Sinatra::Base
       id = f.gsub /\.json/i, ''
       depts << id
     end
+    depts.sort!
     depts.to_json
   end
 
